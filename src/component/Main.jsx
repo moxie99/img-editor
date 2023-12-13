@@ -224,7 +224,7 @@ const Main = () => {
                 />
               </div>
               <div className='rotate'>
-                <label htmlFor=''>Rotate & Filp</label>
+                <label htmlFor=''>Rotate & Flip</label>
                 <div className='icon'>
                   <div onClick={leftRotate}>
                     <GrRotateLeft />
